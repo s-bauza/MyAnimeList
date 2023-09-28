@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SantiagoBauzaHirschlerMyAnimeList</string>
+    <string name="listadeanimes">ListaDeAnimes</string>
+    <string name="todo">TODO</string>
+    <string name="textview">TextView</string>
+    <string name="textviewPuntuacion">TextView</string>
+    <string name="duracion">Duracion</string>
+    <string name="estado">estado</string>
+    <string name="puntuacion">puntuacion</string>
+    <string name="rank">rank</string>
+    <string name="sinopsis">sinopsis</string>
+    <string name="url">url</string>
+
+</resources>
